@@ -1,6 +1,6 @@
 ### Fabooooooooooo
 
-Atualmente sou aluno da SPTech, cursando Sistemas da informação
+Atualmente sou aluno da SPTech, cursando Sistemas de informação
 <br>Contato por email: fabio.seabra@sptech.school
 
 <div align="center">
